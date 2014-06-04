@@ -273,6 +273,10 @@ projects[advagg][version] = "2.6"
 projects[advagg][type] = "module"
 projects[advagg][subdir] = "contrib"
 
+projects[rules][version] = "2.7"
+projects[rules][type] = "module"
+projects[rules][subdir] = "contrib"
+
 ; projects[emogrifier]
 
 projects[imagestyleflush][version] = "1.2"
