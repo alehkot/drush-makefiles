@@ -312,6 +312,14 @@ projects[smart_trim][version] = "1.4"
 projects[smart_trim][subdir] = "contrib"
 projects[smart_trim][type] = "module"
 
+projects[devel_debug_log][version] = "1.2"
+projects[devel_debug_log][subdir] = "contrib"
+projects[devel_debug_log][type] = "module"
+
+projects[optimizedb][version] = "1.3"
+projects[optimizedb][subdir] = "contrib"
+projects[optimizedb][type] = "module"
+
 libraries[ckeditor][download][type] = "get"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.3.3/ckeditor_4.3.3_full.zip"
 libraries[ckeditor][type] = "libraries"
