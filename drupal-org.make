@@ -19,6 +19,10 @@ projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1.4"
 projects[ctools][type] = "module"
 
+projects[entitycache][subdir] = "contrib"
+projects[entitycache][version] = "1.2"
+projects[entitycache][type] = "module"
+
 projects[entity][subdir] = "contrib"
 projects[entity][version] = "1.3"
 projects[entity][type] = "module"
