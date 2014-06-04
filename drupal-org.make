@@ -23,6 +23,10 @@ projects[entity][subdir] = "contrib"
 projects[entity][version] = "1.3"
 projects[entity][type] = "module"
 
+projects[clean_markup][subdir] = "contrib"
+projects[clean_markup][version] = "2.6"
+projects[clean_markup][type] = "module"
+
 projects[entityreference][subdir] = "contrib"
 projects[entityreference][version] = "1.1"
 projects[entityreference][type] = "module"
