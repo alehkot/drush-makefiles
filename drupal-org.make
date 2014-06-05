@@ -95,6 +95,10 @@ projects[features][subdir] = "contrib"
 projects[features][version] = "2.x-dev"
 projects[features][type] = "module"
 
+projects[bean_wysiwyg][subdir] = "contrib"
+projects[bean_wysiwyg][version] = "1.x-dev"
+projects[bean_wysiwyg][type] = "module"
+
 projects[strongarm][subdir] = "contrib"
 projects[strongarm][version] = "2.x-dev"
 projects[strongarm][type] = "module"
