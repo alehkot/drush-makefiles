@@ -43,6 +43,10 @@ projects[media][subdir] = "contrib"
 projects[media][version] = "2.x-dev"
 projects[media][type] = "module"
 
+projects[new_relic_rpm][subdir] = "contrib"
+projects[new_relic_rpm][version] = "1.x-dev"
+projects[new_relic_rpm][type] = "module"
+
 projects[file_entity][subdir] = "contrib"
 projects[file_entity][version] = "2.x-dev"
 projects[file_entity][type] = "module"
